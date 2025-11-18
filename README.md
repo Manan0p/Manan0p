@@ -5,7 +5,7 @@
 ---
 
 🌱 **A curious developer passionate about transforming ideas into intelligent applications.**
-I love exploring the intersection of **AI, web development, and data visualization**, and I’m always experimenting with new technologies to bring seamless user experiences to life.
+I love exploring the intersection of **Generative AI, web development, and data visualization**, and I’m always experimenting with new technologies to bring seamless user experiences to life.
 
 ---
 
