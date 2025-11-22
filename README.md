@@ -64,4 +64,6 @@ I love exploring the intersection of **Generative AI, web development, and data 
 ---
 
 ⭐ *"Keep building. Keep learning. Keep shipping."*
+
+
 📍 *Made with ❤️ by [Manan Lall](https://github.com/Manan0p)*
