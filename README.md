@@ -96,3 +96,92 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 
 📍 *Made with ❤️ by [Manan Lall](https://github.com/Manan0p)*
+
+👋 Hi, I'm Manan Lall
+
+
+
+
+
+💡 Building Smart, Scalable, and Interactive Experiences
+
+🌱 A curious developer passionate about transforming ideas into intelligent applications.I love exploring the intersection of Generative AI, web development, and data visualization, and I’m always experimenting with new technologies to bring seamless user experiences to life.
+
+🧭 About Me
+
+🔭 Currently working on: Sensai – AI-Powered AI Career Coach for Professional Success
+
+🌱 Learning: Next.js | RAG Pipelines | Full-Stack AI Apps
+
+⚡ Interests: AI-driven products, real-time systems, and UI/UX experimentation
+
+💬 Ask me about: React, Flask, AI Chatbots, NLP Projects, and Data Visualization
+
+📫 Reach me at: workfurmanan@gmail.com
+
+🧩 Fun fact: I debug better with lo-fi beats 🎧
+
+🌐 Connect with Me
+
+🧰 Languages and Tools
+
+💡 What I'm Focused On
+
+Category
+
+Details
+
+🔭 Currently Building
+
+Sensai — An AI-Powered Career Coach that leverages advanced LLMs and RAG pipelines for personalized professional success guidance.
+
+🌱 Currently Learning
+
+Next.js, Advanced RAG Pipelines, and Scalable Full-Stack AI Application Architectures.
+
+⚡ Interests
+
+AI-driven products, Real-time systems, and Innovative UI/UX experimentation.
+
+🧩 Fun Fact
+
+I debug better with lo-fi beats 🎧 (It keeps the focus sharp!)
+
+📊 GitHub Stats & Recent Activity
+
+✨ Featured Projects
+
+Project
+
+Description
+
+Tech Stack Highlights
+
+Sensai (In Progress)
+
+AI-Powered Career Coach. Provides bespoke, data-driven career advice by leveraging advanced LLMs and RAG.
+
+Generative AI, RAG, LLMs, Next.js
+
+Splitr
+
+Smart Bill Splitting Web App. A highly interactive and responsive application for seamless splitting experiences.
+
+React, Tailwind CSS, Vite
+
+FloatChat
+
+AI Conversational Interface for ARGO Ocean Data. Chatbot interface making complex oceanographic data accessible via natural language queries.
+
+NLP, Flask, Data Visualization
+
+AI Traffic Monitoring
+
+YOLOv8 + Flask Traffic Analysis System. A real-time Computer Vision system for analyzing traffic density and patterns using a web interface.
+
+YOLOv8, Computer Vision, Flask, OpenCV
+
+⭐ "Keep building. Keep learning. Keep shipping."
+
+📍 Made with ❤️ by Manan Lall
+
