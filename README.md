@@ -69,8 +69,8 @@ I love exploring the intersection of **Generative AI, web development, and data 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manan0p&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manan0p&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
 
@@ -80,26 +80,14 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 | Project | Description | Tech Stack Highlights |
 | :--- | :--- | :--- |
-| **[Sensai (In Progress)]** | AI-Powered Career Coach. Provides bespoke, data-driven career advice by leveraging advanced LLMs and RAG. | Generative AI, RAG, LLMs, Next.js |
-| **[Splitr]** | Smart Bill Splitting Web App. A highly interactive and responsive application for seamless splitting experiences. | React, Tailwind CSS, Vite |
-| **[FloatChat]** | AI Conversational Interface for ARGO Ocean Data. Chatbot interface making complex oceanographic data accessible via natural language queries. | NLP, Flask, Data Visualization |
-| **[AI Traffic Monitoring]** | YOLOv8 + Flask Traffic Analysis System. A real-time Computer Vision system for analyzing traffic density and patterns using a web interface. | YOLOv8, Computer Vision, Flask, OpenCV |
+| [**Sensai (In Progress)**](https://github.com/Manan0p/Sensai) | AI-Powered Career Coach. Provides bespoke, data-driven career advice by leveraging advanced LLMs and RAG. | Generative AI, RAG, LLMs, Next.js |
+| [**Splitr**](https://github.com/Manan0p/Splitr) | Smart Bill Splitting Web App. A highly interactive and responsive application for seamless splitting experiences. | React, Tailwind CSS, Vite |
+| [**FloatChat**](https://github.com/Manan0p/FloatChat) | AI Conversational Interface for ARGO Ocean Data. Chatbot interface making complex oceanographic data accessible via natural language queries. | NLP, Flask, Data Visualization |
+| [**AI Traffic Monitoring**](https://github.com/Manan0p/AI-Traffic-Monitoring) | YOLOv8 + Flask Traffic Analysis System. A real-time Computer Vision system for analyzing traffic density and patterns using a web interface. | YOLOv8, Computer Vision, Flask, OpenCV |
 
 ---
 
-### 🚀 Featured Projects
-
-* 💬 [**Splitr**](https://github.com/Manan0p/Splitr) — Smart Bill Splitting Web App (React + Tailwind + Vite)
-* 🌊 [**FloatChat**](https://github.com/Manan0p/FloatChat) — AI Conversational Interface for ARGO Ocean Data
-* 🚦 [**AI Traffic Monitoring**](https://github.com/Manan0p/AI-Traffic-Monitoring) — YOLOv8 + Flask + OpenCV-based traffic analysis
-
----
-
-⭐ *"Keep building. Keep learning. Keep shipping."*
+> ⭐ *"Keep building. Keep learning. Keep shipping."*
 
 
 📍 *Made with ❤️ by [Manan Lall](https://github.com/Manan0p)*
-
-> ⭐ **"Keep building. Keep learning. Keep shipping."**
-
-*Made with ❤️ by Manan Lall*
