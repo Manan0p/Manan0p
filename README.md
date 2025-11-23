@@ -22,7 +22,7 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/manan-lall-990421336/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
