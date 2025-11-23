@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Manan0p&color=blue&style=flat-square)
 
-# 👋 Hi, I'm **Manan Lall*
+# 👋 Hi, I'm **Manan Lall**
 
 ### 💡 Building Smart, Scalable, and Interactive Experiences
 
