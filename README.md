@@ -34,61 +34,6 @@ I love exploring the intersection of **Generative AI, web development, and data 
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manan0p&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-* 💬 [**Splitr**](https://github.com/Manan0p/Splitr) — Smart Bill Splitting Web App (React + Tailwind + Vite)
-* 🌊 [**FloatChat**](https://github.com/Manan0p/FloatChat) — AI Conversational Interface for ARGO Ocean Data
-* 🚦 [**AI Traffic Monitoring**](https://github.com/Manan0p/AI-Traffic-Monitoring) — YOLOv8 + Flask + OpenCV-based traffic analysis
-
----
-
-⭐ *"Keep building. Keep learning. Keep shipping."*
-
-
-📍 *Made with ❤️ by [Manan Lall](https://github.com/Manan0p)*
-
-
-## 🚀 Manan Lall | Building Smart, Scalable, and Interactive Experiences
-
-> 👋 Hi, I'm Manan Lall. I'm a curious developer passionate about transforming ideas into intelligent applications. My work focuses on the intersection of **Generative AI**, **Full-Stack Web Development**, and **Data Visualization** to bring seamless and impactful user experiences to life.
-
----
-
-### 💡 What I'm Focused On
-
-| Category | Details |
-| :--- | :--- |
-| **🔭 Currently Building** | **Sensai** — An AI-Powered Career Coach that leverages advanced LLMs and RAG pipelines for personalized professional success guidance. |
-| **🌱 Currently Learning** | **Next.js**, **Advanced RAG Pipelines**, and **Scalable Full-Stack AI Application Architectures**. |
-| **⚡ Interests** | **AI-driven products**, **Real-time systems**, and **Innovative UI/UX experimentation**. |
-| **🧩 Fun Fact** | I debug better with lo-fi beats 🎧 (It keeps the focus sharp!) |
-
----
-
-### 🛠️ Core Toolkit & Expertise
-
-<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -110,6 +55,27 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 ---
 
+### 💡 What I'm Focused On
+
+| Category | Details |
+| :--- | :--- |
+| **🔭 Currently Building** | **Sensai** — An AI-Powered Career Coach that leverages advanced LLMs and RAG pipelines for personalized professional success guidance. |
+| **🌱 Currently Learning** | **Next.js**, **Advanced RAG Pipelines**, and **Scalable Full-Stack AI Application Architectures**. |
+| **⚡ Interests** | **AI-driven products**, **Real-time systems**, and **Innovative UI/UX experimentation**. |
+| **🧩 Fun Fact** | I debug better with lo-fi beats 🎧 (It keeps the focus sharp!) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manan0p&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+
+---
+
 ### ✨ Featured Projects
 
 | Project | Description | Tech Stack Highlights |
@@ -121,21 +87,18 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manan0p&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Manan Lall's GitHub Stats" />
-</p>
+* 💬 [**Splitr**](https://github.com/Manan0p/Splitr) — Smart Bill Splitting Web App (React + Tailwind + Vite)
+* 🌊 [**FloatChat**](https://github.com/Manan0p/FloatChat) — AI Conversational Interface for ARGO Ocean Data
+* 🚦 [**AI Traffic Monitoring**](https://github.com/Manan0p/AI-Traffic-Monitoring) — YOLOv8 + Flask + OpenCV-based traffic analysis
 
 ---
 
-### 💬 Let's Connect
+⭐ *"Keep building. Keep learning. Keep shipping."*
 
-| Action | Details |
-| :--- | :--- |
-| **Ask Me About** | React, Flask, Designing AI Chatbots, NLP Projects, and Advanced Data Visualization Techniques. |
-| **📫 Email** | **workfurmanan@gmail.com** |
-| **🌐 Connect** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkedIn Profile URL]) | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manan0p) |
+
+📍 *Made with ❤️ by [Manan Lall](https://github.com/Manan0p)*
 
 > ⭐ **"Keep building. Keep learning. Keep shipping."**
 
