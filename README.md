@@ -1,4 +1,6 @@
-# 👋 Hi, I'm **Manan Lall**
+![Profile Views](https://komarev.com/ghpvc/?username=Manan0p&color=blue&style=flat-square)
+
+# 👋 Hi, I'm **Manan Lall*
 
 ### 💡 Building Smart, Scalable, and Interactive Experiences
 
@@ -38,25 +40,7 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 ### 🧰 Languages and Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<p align="left"> <!-- Core --> <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <!-- Web --> <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-Intermediate-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-Intermediate-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <!-- AI/ML --> <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <!-- DevOps --> <img src="https://img.shields.io/badge/AWS-Intermediate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <!-- Deployment --> <img src="https://img.shields.io/badge/Vercel-Advanced-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </p>
 
 ---
 
@@ -74,8 +58,11 @@ I love exploring the intersection of **Generative AI, web development, and data 
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manan0p&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.vercel.app/?user=Manan0p&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=Manan0p&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=dark&hide_border=true" height="165" />
+  
 </p>
 
 
@@ -96,92 +83,3 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 
 📍 *Made with ❤️ by [Manan Lall](https://github.com/Manan0p)*
-
-👋 Hi, I'm Manan Lall
-
-
-
-
-
-💡 Building Smart, Scalable, and Interactive Experiences
-
-🌱 A curious developer passionate about transforming ideas into intelligent applications.I love exploring the intersection of Generative AI, web development, and data visualization, and I’m always experimenting with new technologies to bring seamless user experiences to life.
-
-🧭 About Me
-
-🔭 Currently working on: Sensai – AI-Powered AI Career Coach for Professional Success
-
-🌱 Learning: Next.js | RAG Pipelines | Full-Stack AI Apps
-
-⚡ Interests: AI-driven products, real-time systems, and UI/UX experimentation
-
-💬 Ask me about: React, Flask, AI Chatbots, NLP Projects, and Data Visualization
-
-📫 Reach me at: workfurmanan@gmail.com
-
-🧩 Fun fact: I debug better with lo-fi beats 🎧
-
-🌐 Connect with Me
-
-🧰 Languages and Tools
-
-💡 What I'm Focused On
-
-Category
-
-Details
-
-🔭 Currently Building
-
-Sensai — An AI-Powered Career Coach that leverages advanced LLMs and RAG pipelines for personalized professional success guidance.
-
-🌱 Currently Learning
-
-Next.js, Advanced RAG Pipelines, and Scalable Full-Stack AI Application Architectures.
-
-⚡ Interests
-
-AI-driven products, Real-time systems, and Innovative UI/UX experimentation.
-
-🧩 Fun Fact
-
-I debug better with lo-fi beats 🎧 (It keeps the focus sharp!)
-
-📊 GitHub Stats & Recent Activity
-
-✨ Featured Projects
-
-Project
-
-Description
-
-Tech Stack Highlights
-
-Sensai (In Progress)
-
-AI-Powered Career Coach. Provides bespoke, data-driven career advice by leveraging advanced LLMs and RAG.
-
-Generative AI, RAG, LLMs, Next.js
-
-Splitr
-
-Smart Bill Splitting Web App. A highly interactive and responsive application for seamless splitting experiences.
-
-React, Tailwind CSS, Vite
-
-FloatChat
-
-AI Conversational Interface for ARGO Ocean Data. Chatbot interface making complex oceanographic data accessible via natural language queries.
-
-NLP, Flask, Data Visualization
-
-AI Traffic Monitoring
-
-YOLOv8 + Flask Traffic Analysis System. A real-time Computer Vision system for analyzing traffic density and patterns using a web interface.
-
-YOLOv8, Computer Vision, Flask, OpenCV
-
-⭐ "Keep building. Keep learning. Keep shipping."
-
-📍 Made with ❤️ by Manan Lall
-
