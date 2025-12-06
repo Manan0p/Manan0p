@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Manan Lall**
 
-### 💡 Building Smart, Scalable, Innovative and Interactive Experiences
+### 💡 Building Smart, Scalable, Innovative and Interactive Experiences and Solutions
 
 ---
 
