@@ -74,7 +74,7 @@ I love exploring the intersection of **Generative AI, web development, and data 
 | :--- | :--- | :--- |
 | [**Sensai**](https://github.com/Manan0p/Sensai) | AI-Powered Career Coach. Provides bespoke, data-driven career advice by leveraging advanced LLMs and RAG. | Generative AI, RAG, LLMs, Next.js |
 | [**Splitr**](https://github.com/Manan0p/Splitr) | Smart Bill Splitting Web App. A highly interactive and responsive application for seamless splitting experiences. | React, Tailwind CSS, Vite |
-| [**JobGuard AI**](https://github.com/Manan0p/JobGuard-AI) | JobGuard AI is a modern Flask + ML web app that detects fake job postings using TF-IDF and classification models. Features real-time predictions with confidence scores, admin dashboard with analytics, model retraining, prediction history, secure authentication, and a beautiful responsive UI with dark/light themes. |
+| [**JobGuard AI**](https://github.com/Manan0p/JobGuard-AI) | JobGuard AI is a modern web app that detects fake job postings. Features real-time predictions with confidence scores, admin dashboard with analytics.| NLP, Flask, ML, TF-IDF, SQLite  |
 | [**FloatChat**](https://github.com/Manan0p/FloatChat) | AI Conversational Interface for ARGO Ocean Data. Chatbot interface making complex oceanographic data accessible via natural language queries. | NLP, Flask, Data Visualization |
 | [**AI Traffic Monitoring**](https://github.com/Manan0p/AI-Traffic-Monitoring) | YOLOv8 + Flask Traffic Analysis System. A real-time Computer Vision system for analyzing traffic density and patterns using a web interface. | YOLOv8, Computer Vision, Flask, OpenCV |
 
