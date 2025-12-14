@@ -74,6 +74,7 @@ I love exploring the intersection of **Generative AI, web development, and data 
 | :--- | :--- | :--- |
 | [**Sensai**](https://github.com/Manan0p/Sensai) | AI-Powered Career Coach. Provides bespoke, data-driven career advice by leveraging advanced LLMs and RAG. | Generative AI, RAG, LLMs, Next.js |
 | [**Splitr**](https://github.com/Manan0p/Splitr) | Smart Bill Splitting Web App. A highly interactive and responsive application for seamless splitting experiences. | React, Tailwind CSS, Vite |
+| [**JobGuard AI**](https://github.com/Manan0p/JobGuard-AI) | YOLOv8 + Flask Traffic Analysis System. A real-time Caffic density and patterns using a web interface. | YOLOv8, Computer Vision, Flask, OpenCV |
 | [**FloatChat**](https://github.com/Manan0p/FloatChat) | AI Conversational Interface for ARGO Ocean Data. Chatbot interface making complex oceanographic data accessible via natural language queries. | NLP, Flask, Data Visualization |
 | [**AI Traffic Monitoring**](https://github.com/Manan0p/AI-Traffic-Monitoring) | YOLOv8 + Flask Traffic Analysis System. A real-time Computer Vision system for analyzing traffic density and patterns using a web interface. | YOLOv8, Computer Vision, Flask, OpenCV |
 
