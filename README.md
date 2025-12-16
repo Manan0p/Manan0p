@@ -58,9 +58,9 @@ I love exploring the intersection of **Generative AI, web development, and data 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manan0p&theme=dark" height="165" width="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=dark&hide_border=true" height="165" width="200" />
-  <img src="https://streak-stats.vercel.app/?user=Manan0p&theme=dark&hide_border=true" height="250" width="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manan0p&theme=dark" height="165" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan0p&layout=compact&theme=dark&hide_border=true" height="165" width="400" />
+  <img src="https://streak-stats.vercel.app/?user=Manan0p&theme=dark&hide_border=true" height="250" width="500" />
   <img src="https://github-readme-stats.vercel.app/api?username=Manan0p&show_icons=true&theme=dark&hide_border=true" height="250" width="250" />
   
 </p>
