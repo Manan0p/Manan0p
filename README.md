@@ -13,7 +13,7 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 ### 🧭 About Me
 
-* 🔭 Currently working on: **Dealdrop**
+* 🔭 Currently working on: **Deal Drop: Smart Product Price Tracker**
 * 🌱 Learning: **Next.js | RAG Pipelines | Full-Stack AI Apps**
 * ⚡ Interests: AI-driven products, real-time systems, and UI/UX experimentation
 * 💬 Ask me about: **React, Flask, AI Chatbots, NLP Projects, and Data Visualization**
@@ -48,7 +48,7 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 | Category | Details |
 | :--- | :--- |
-| **🔭 Currently Building** | **Dealdrop** — An AI-Powered Career Coach that leverages advanced LLMs and RAG pipelines for personalized professional success guidance. |
+| **🔭 Currently Building** | **Dealdrop** — Smart Product Price Tracker. |
 | **🌱 Currently Learning** | **Next.js**, **Advanced RAG Pipelines**, and **Scalable Full-Stack AI Application Architectures**. |
 | **⚡ Interests** | **AI-driven products**, **Real-time systems**, and **Innovative UI/UX experimentation**. |
 | **🧩 Fun Fact** | I debug better with lo-fi beats 🎧 (It keeps the focus sharp!) |
