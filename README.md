@@ -13,7 +13,7 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 ### 🧭 About Me
 
-* 🔭 Currently working on: **Deal Drop: Smart Product Price Tracker**
+* 🔭 Currently working on: **Deal Drop - Smart Product Price Tracker**
 * 🌱 Learning: **Next.js | RAG Pipelines | Full-Stack AI Apps**
 * ⚡ Interests: AI-driven products, real-time systems, and UI/UX experimentation
 * 💬 Ask me about: **React, Flask, AI Chatbots, NLP Projects, and Data Visualization**
