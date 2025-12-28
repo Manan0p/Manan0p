@@ -72,7 +72,7 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 | Project | Description | Tech Stack Highlights |
 | :--- | :--- | :--- |
-| [**DealDrop**](https://github.com/Manan0p/Deal-drop) | Smart Product Price Tracker. | Generative AI, Tailwind CSS, React, Next.js |
+| [**DealDrop**](https://github.com/Manan0p/dealdrop) | Smart Product Price Tracker. | Generative AI, Tailwind CSS, React, Next.js |
 | [**Sensai**](https://github.com/Manan0p/Sensai) | AI-Powered Career Coach. Provides bespoke, data-driven career advice by leveraging advanced LLMs and RAG. | Generative AI, RAG, LLMs, Next.js |
 | [**Splitr**](https://github.com/Manan0p/Splitr) | Smart Bill Splitting Web App. A highly interactive and responsive application for seamless splitting experiences. | React, Tailwind CSS, Vite |
 | [**JobGuard AI**](https://github.com/Manan0p/JobGuard-AI) | JobGuard AI is a modern web app that detects fake job postings. Features real-time predictions with confidence scores, admin dashboard with analytics.| NLP, Flask, ML, TF-IDF, SQLite  |
