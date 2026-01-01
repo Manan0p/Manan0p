@@ -66,12 +66,12 @@ I work at the intersection of **AI/ML, full-stack development, and real-time sys
 
 | Project | Description | Tech Stack Highlights |
 | :--- | :--- | :--- |
-| [**DealDrop**](https://github.com/Manan0p/dealdrop) | Smart Product Price Tracker. | Generative AI, Tailwind CSS, React, Next.js |
-| [**Sensai**](https://github.com/Manan0p/Sensai) | AI-Powered Career Coach. Provides bespoke, data-driven career advice by leveraging advanced LLMs and RAG. | Generative AI, RAG, LLMs, Next.js |
-| [**Splitr**](https://github.com/Manan0p/Splitr) | Smart Bill Splitting Web App. A highly interactive and responsive application for seamless splitting experiences. | React, Tailwind CSS, Vite |
-| [**JobGuard AI**](https://github.com/Manan0p/JobGuard-AI) | JobGuard AI is a modern web app that detects fake job postings. Features real-time predictions with confidence scores, admin dashboard with analytics.| NLP, Flask, ML, TF-IDF, SQLite  |
-| [**FloatChat**](https://github.com/Manan0p/FloatChat) | AI Conversational Interface for ARGO Ocean Data. Chatbot interface making complex oceanographic data accessible via natural language queries. | NLP, Flask, Data Visualization |
-| [**AI Traffic Monitoring**](https://github.com/Manan0p/AI-Traffic-Monitoring) | YOLOv8 + Flask Traffic Analysis System. A real-time Computer Vision system for analyzing traffic density and patterns using a web interface. | YOLOv8, Computer Vision, Flask, OpenCV |
+| [**DealDrop**](https://github.com/Manan0p/dealdrop) | Smart product price tracker with intelligent alerts. | Next.js, React, Generative AI |
+| [**Sensai**](https://github.com/Manan0p/Sensai) | AI-powered career coach with resume, interview & job insights using RAG. | RAG, LLMs, Next.js |
+| [**Splitr**](https://github.com/Manan0p/Splitr) | Smart expense & bill-splitting web app with clean UX. | React, Tailwind |
+| [**JobGuard AI**](https://github.com/Manan0p/JobGuard-AI) | Fake job detection system using NLP & ML pipelines. | NLP, Flask, TF-IDF |
+| [**FloatChat**](https://github.com/Manan0p/FloatChat) | Conversational AI for ARGO oceanographic data discovery. | NLP, Flask, Data Viz |
+| [**AI Traffic Monitoring**](https://github.com/Manan0p/Traffix-Violation-System) | Real-time traffic analysis using YOLOv8 & OpenCV. | CV, Flask, YOLOv8 |
 
 ---
 
