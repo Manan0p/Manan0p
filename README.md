@@ -2,23 +2,27 @@
 
 # 👋 Hi, I'm **Manan Lall**
 
-### 💡 Building Smart, Scalable, Innovative and Interactive Experiences and Solutions
+
+### 🤖 AI/ML Engineer & Full-Stack Developer  
+🚀 Love building intelligent systems that actually ship  
+⚛️ React • Next.js • 🐍 Python • 🧠 NLP • 👁️ Computer Vision
 
 ---
 
-🌱 **A curious developer passionate about transforming ideas into intelligent applications.**
-I love exploring the intersection of **Generative AI, web development, and data visualization**, and I’m always experimenting with new technologies to bring seamless user experiences to life.
+🌱 I’m a developer passionate about turning **complex ideas into real-world, scalable products**.  
+I work at the intersection of **AI/ML, full-stack development, and real-time systems**, building applications that focus on **performance, reliability, and impact**.
+
 
 ---
 
-### 🧭 About Me
+## 🧭 About Me
 
-* 🔭 Currently working on: **Deal Drop - Smart Product Price Tracker**
-* 🌱 Learning: **Next.js | RAG Pipelines | Full-Stack AI Apps**
-* ⚡ Interests: AI-driven products, real-time systems, and UI/UX experimentation
-* 💬 Ask me about: **React, Flask, AI Chatbots, NLP Projects, and Data Visualization**
-* 📫 Reach me at: **[workfurmanan@gmail.com](mailto:workfurmanan@gmail.com)**
-* 🧩 Fun fact: I debug better with lo-fi beats 🎧
+- 🔭 Currently building: **DealDrop — Smart Product Price Tracker**
+- 🌱 Learning & exploring: **Next.js (advanced)**, **RAG pipelines**, **Full-Stack AI architectures**
+- ⚡ Interests: AI-powered products, real-time backends, system design
+- 💬 Ask me about: **React, Next.js, Flask, NLP projects, AI chatbots**
+- 📫 Reach me at: **[workfurmanan@gmail.com](mailto:workfurmanan@gmail.com)**
+- 🎧 Fun fact: I debug better with lo-fi beats
 
 ---
 
@@ -44,16 +48,6 @@ I love exploring the intersection of **Generative AI, web development, and data 
 
 ---
 
-### 💡 What I'm Focused On
-
-| Category | Details |
-| :--- | :--- |
-| **🔭 Currently Building** | **Dealdrop** — Smart Product Price Tracker. |
-| **🌱 Currently Learning** | **Next.js**, **Advanced RAG Pipelines**, and **Scalable Full-Stack AI Application Architectures**. |
-| **⚡ Interests** | **AI-driven products**, **Real-time systems**, and **Innovative UI/UX experimentation**. |
-| **🧩 Fun Fact** | I debug better with lo-fi beats 🎧 (It keeps the focus sharp!) |
-
----
 
 ### 📊 GitHub Stats
 
