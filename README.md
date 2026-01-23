@@ -29,7 +29,7 @@ I work at the intersection of **AI/ML, full-stack development, and real-time sys
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manan-lall-990421336/" target="_blank">
+  <a href="https://www.linkedin.com/in/mananlall/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/Manan_0p" target="_blank">
