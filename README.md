@@ -17,7 +17,7 @@ I work at the intersection of **AI/ML, full-stack development, and real-time sys
 
 ## 🧭 About Me
 
-- 🔭 Currently building: **DealDrop — Smart Product Price Tracker**
+- 🔭 Currently building: **LinkedIn Post Generator**
 - 🌱 Learning & exploring: **Next.js (advanced)**, **RAG pipelines**, **Full-Stack AI architectures**
 - ⚡ Interests: AI-powered products, real-time backends, system design
 - 💬 Ask me about: **React, Next.js, Flask, NLP projects, AI chatbots**
