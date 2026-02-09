@@ -40,9 +40,50 @@ My work lives at the intersection of **AI/ML, full-stack engineering, and real-t
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Builder Toolkit
 
-<p align="left"> <!-- Programming Languages --> <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <!-- Frontend --> <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-Intermediate-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <!-- Backend --> <img src="https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <!-- AI / ML --> <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-102230?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-Intermediate-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-Intermediate-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <!-- Data & Tools --> <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <!-- Systems / DevOps --> <img src="https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Advanced-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-Advanced-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/CI/CD-Intermediate-222222?style=for-the-badge"/> <!-- Cloud / Deployment --> <img src="https://img.shields.io/badge/AWS-Intermediate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-Advanced-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </p>
+### 🧠 Intelligence Layer
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4CAF50?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-222222?style=for-the-badge)
+
+---
+
+### ⚙️ Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 🖥️ Frontend & Product
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+### 🔩 Backend & Systems
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Auth%20(Clerk)-3B3B3B?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event--Driven%20Systems-222222?style=for-the-badge)
+
+---
+
+### 🧱 Data, Infra & DevOps
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
