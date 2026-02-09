@@ -1,28 +1,26 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Manan0p&color=blue&style=flat-square)
 
-# 👋 Hi, I'm **Manan Lall**
+# 👋 Hi, I’m **Manan Lall**
 
-
-### 🤖 AI/ML Engineer & Full-Stack Developer  
-🚀 Love building intelligent systems that actually ship  
+### 🧱 AI/ML Engineer • Full-Stack Builder  
+🚀 I build intelligent systems that move from idea → production  
 ⚛️ React • Next.js • 🐍 Python • 🧠 NLP • 👁️ Computer Vision
 
 ---
 
-🌱 I’m a developer passionate about turning **complex ideas into real-world, scalable products**.  
-I work at the intersection of **AI/ML, full-stack development, and real-time systems**, building applications that focus on **performance, reliability, and impact**.
-
+I focus on **shipping AI-powered products**, not just models or demos.  
+My work lives at the intersection of **AI/ML, full-stack engineering, and real-time systems** — with an emphasis on **reliability, scalability, and real-world impact**.
 
 ---
 
-## 🧭 About Me
+## 🧭 Builder Snapshot
 
-- 🔭 Currently building: **LinkedIn Post Generator**
-- 🌱 Learning & exploring: **Next.js (advanced)**, **RAG pipelines**, **Full-Stack AI architectures**
-- ⚡ Interests: AI-powered products, real-time backends, system design
-- 💬 Ask me about: **React, Next.js, Flask, NLP projects, AI chatbots**
-- 📫 Reach me at: **[workfurmanan@gmail.com](mailto:workfurmanan@gmail.com)**
-- 🎧 Fun fact: I debug better with lo-fi beats
+- 🔭 Currently shipping: **LinkedIn Post Generator**
+- 🧠 Exploring: **RAG pipelines**, **advanced Next.js**, **AI system design**
+- 🧱 Interested in: AI products, real-time backends, end-to-end ownership
+- 💬 Comfortable with: **React, Next.js, Flask, NLP pipelines, AI chatbots**
+- 📫 Reach me: **[workfurmanan@gmail.com](mailto:workfurmanan@gmail.com)**
+- 🎧 Debug mode: lo-fi beats on repeat
 
 ---
 
