@@ -68,8 +68,6 @@ My work lives at the intersection of **AI/ML, full-stack engineering, and real-t
 | [**Sensai**](https://github.com/Manan0p/Sensai) | AI-powered career coach with resume, interview & job insights using RAG. | RAG, LLMs, Next.js |
 | [**Splitr**](https://github.com/Manan0p/Splitr) | Smart expense & bill-splitting web app with clean UX. | React, Tailwind |
 | [**JobGuard AI**](https://github.com/Manan0p/JobGuard-AI) | Fake job detection system using NLP & ML pipelines. | NLP, Flask, TF-IDF |
-| [**FloatChat**](https://github.com/Manan0p/FloatChat) | Conversational AI for ARGO oceanographic data discovery. | NLP, Flask, Data Viz |
-| [**AI Traffic Monitoring**](https://github.com/Manan0p/Traffix-Violation-System) | Real-time traffic analysis using YOLOv8 & OpenCV. | CV, Flask, YOLOv8 |
 
 ---
 
