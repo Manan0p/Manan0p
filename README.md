@@ -2,25 +2,24 @@
 
 # 👋 Hi, I’m **Manan Lall**
 
-### 🧱 AI/ML Engineer • Full-Stack Builder  
-🚀 I build intelligent systems that move from idea → production  
-⚛️ React • Next.js • 🐍 Python • 🧠 NLP • 👁️ Computer Vision
+### 🏗️ AI Product Engineer • Full-Stack Architect
+🚀 I bridge the gap between complex AI research and production-ready products.  
+⚛️ **Next.js** Expert • 🐍 **Python** & **FastAPI** • 🧠 **RAG & Agentic Workflows** • 👁️ **CV**
 
 ---
 
-I focus on **shipping AI-powered products**, not just models or demos.  
-My work lives at the intersection of **AI/ML, full-stack engineering, and real-time systems** — with an emphasis on **reliability, scalability, and real-world impact**.
+I focus on **shipping high-impact AI products**, not just local demos. My work lives at the intersection of **Generative AI, Scalable Backends, and UX**, with a heavy emphasis on **Reliability, RAG Optimization, and Real-world Scalability**.
 
 ---
 
 ## 🧭 Builder Snapshot
 
-- 🔭 Currently shipping: **LinkedIn Post Generator**
-- 🧠 Exploring: **RAG pipelines**, **advanced Next.js**, **AI system design**
-- 🧱 Interested in: AI products, real-time backends, end-to-end ownership
-- 💬 Comfortable with: **React, Next.js, Flask, NLP pipelines, AI chatbots**
-- 📫 Reach me: **[workfurmanan@gmail.com](mailto:workfurmanan@gmail.com)**
-- 🎧 Debug mode: lo-fi beats on repeat
+- 🔭 **Currently shipping:** Advanced LinkedIn Post Generator (Agentic Workflow)
+- 🧠 **Exploring:** Multi-agent systems, VectorDB optimization, and LLM Observability
+- 🧱 **Focus:** End-to-end AI system design and real-time event-driven backends
+- 💬 **Ask me about:** Building with RAG, Next.js performance, or fine-tuning NLP pipelines
+- 📫 **Reach me:** [workfurmanan@gmail.com](mailto:workfurmanan@gmail.com)
+- 🎧 **Coding Loop:** Lo-fi beats & deep work 
 
 ---
 
